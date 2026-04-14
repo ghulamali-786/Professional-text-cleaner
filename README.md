@@ -1,9 +1,9 @@
-🧹 Easy Menu-Driven Python Tool
+**🧹 Easy Menu-Driven Python Tool**
 
 A simple and beginner-friendly Python tool to clean and process text files.
 No command-line knowledge is required — just run the script and choose options from a menu.
 
-🚀 Features
+**🚀 Features**
 Remove extra spaces (multiple → single)
 Remove special characters (~!@#$%^&*())
 Remove empty lines
@@ -13,18 +13,18 @@ Search & Replace – replace full words (case-insensitive)
 Word count – total number of words in the file
 ALL option – perform all cleaning + search/replace in one step
 
-👨‍💻 Who Is This For?
+**👨‍💻 Who Is This For?**
 
 Anyone working with messy text files (logs, notes, data exports)
 Beginners learning Python
 Freelancers offering file-cleaning or automation services
 
-⚙️ Requirements
+**⚙️ Requirements**
 
 Windows / Mac / Linux
 Python 3.6 or higher
 
-📥 Installation & Usage
+**📥 Installation & Usage**
 
 1️⃣ Save the Script
 
@@ -32,7 +32,7 @@ Save your Python file as:
 
 text_processor.py
 
-2️⃣ Run the Script
+**2️⃣ Run the Script**
 
 Windows:
 
@@ -42,7 +42,7 @@ Mac/Linux:
 
 python3 text_processor.py
 
-3️⃣ Menu Interface
+**3️⃣ Menu Interface**
 ==================================================
 📁 TEXT FILE PROCESSOR MENU
 ==================================================
@@ -59,7 +59,7 @@ python3 text_processor.py
 
 ==================================================
 
-📌 User Input
+**📌 User Input**
 
 The program will ask for:
 
@@ -106,7 +106,7 @@ You You You You
 - Removed 1 empty line
 - Removed 0 duplicate lines
 - Replaced 'I' with 'You'
-💼 Custom Work / Freelancing
+**💼 Custom Work / Freelancing**
 
 If you need advanced features, I can help with:
 
@@ -119,11 +119,11 @@ Convert script to .exe (no Python installation needed)
 Custom automation tools
 
 
-📧 Email: ghulamali31@gmail.com
+**📧 Email:** ghulamali31@gmail.com
 
-👤 Author: Ghulam Ali
+**👤 Author:** Ghulam Ali
 
-GitHub: ghulamali-786
+**GitHub:** ghulamali-786
 
 📜 License
 
