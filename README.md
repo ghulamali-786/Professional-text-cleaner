@@ -81,7 +81,7 @@ The program will ask for:
 
 📄 Output file name (example: cleaned.txt)
 
-##📋 Menu Options
+## 📋 Menu Options
 
 ==================================================
 📁 TEXT FILE PROCESSOR MENU
