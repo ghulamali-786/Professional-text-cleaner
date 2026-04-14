@@ -40,6 +40,7 @@ python text_processor.py
 Mac/Linux:
 
 python3 text_processor.py
+
 3️⃣ Menu Interface
 ==================================================
 📁 TEXT FILE PROCESSOR MENU
