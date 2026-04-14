@@ -1,59 +1,88 @@
-**🧹 Easy Menu-Driven Python Tool**
+# 📄 Text File Processor
+## 🧹 Multi-Function Menu-Driven Python Tool
 
-A simple and beginner-friendly Python tool to clean and process text files.
-No command-line knowledge is required. Just run the script and choose options from a menu.
+A powerful and beginner-friendly Python tool to clean, analyze, and process text files using a simple interactive menu.
 
-**🚀 Features**
+No command-line skills required. Just run the script and choose an option.
 
-Remove extra spaces (multiple → single)
+## 🚀 Features
 
-Remove special characters (~!@#$%^&*())
+### 🧼 Cleaning Operations
 
-Remove empty lines
+**Remove Extra Spaces**
+Converts multiple spaces into a single space.
 
-Remove duplicate lines
+**Remove Special Characters**
+Removes characters like: ~!@#$%^&*()
 
-Search only – count how many times a word appears (without modifying the file)
+**Remove Empty Lines**
+Deletes blank lines from the file.
 
-Search & Replace – replace full words (case-insensitive)
+**Remove Duplicate Lines**
+Keeps only unique lines and removes repeated ones.
 
-Word count – total number of words in the file
+### 🔍 Analysis & Search
 
-ALL option – perform all cleaning + search/replace in one step
+**Search Only (Word Count)**
+Counts how many times a word appears in the file
+✔ Case-insensitive
+✔ Does NOT modify the file
 
-**👨‍💻 Who Is This For?**
+### 🔁 Editing
 
-Anyone working with messy text files (logs, notes, data exports)
+**Search & Replace**
+Replaces a specific word with another
+✔ Full word match
+✔ Case-insensitive
 
+### 📊 Statistics
+
+**Word Count Only**
+Shows total number of words in the file
+✔ No file modification
+
+### ⚡ All-in-One
+
+**ALL Option**
+Runs all cleaning operations + optional search & replace in one step
+
+## 👨‍💻 Who Is This For?
+
+Anyone working with messy text files
 Beginners learning Python
+Freelancers offering automation services
 
-Freelancers offering file-cleaning or automation services
-
-**⚙️ Requirements**
-
-Windows / Mac / Linux
+## ⚙️ Requirements
 
 Python 3.6 or higher
+Windows / Mac / Linux
 
-**📥 Installation & Usage**
+## 📥 How to Use
 
-1️⃣ Save the Script
-
-Save your Python file as:
+### 1️⃣ Save the Script
 
 text_processor.py
 
-**2️⃣ Run the Script**
+### 2️⃣ Run the Script
 
-Windows:
+**Windows**
 
 python text_processor.py
 
-Mac/Linux:
+**Mac/Linux**
 
 python3 text_processor.py
 
-**3️⃣ Menu Interface**
+### 3️⃣ Provide Input
+
+The program will ask for:
+
+📂 Input file name (example: myfile.txt)
+
+📄 Output file name (example: cleaned.txt)
+
+##📋 Menu Options
+
 ==================================================
 📁 TEXT FILE PROCESSOR MENU
 ==================================================
@@ -66,93 +95,58 @@ python3 text_processor.py
 6. Search & Replace (full word)
 7. Word count only
 8. ALL (cleaning + search & replace)
-9. Exit
+0. Exit
 
 ==================================================
 
-**📌 User Input**
-
-The program will ask for:
-
-Input file name (e.g., myfile.txt)
-
-Output file name (e.g., cleaned.txt)
-
-Search word (for options 5, 6, 8)
-
-Replace word (for options 6, 8)
-
-
-🧪 Example
-
+## 📌 Additional Inputs (When Required)
+Option 5:
+Enter word to search
+Option 6:
+Enter search word + replacement word
+Option 8:
+Optional search & replace (can skip if not needed)
+## 🧪 Example
 Input (myfile.txt)
-
 Hello I, how are you?
-
-maintain your health.
-
-~!@#$%^&*() special chars
-
 I I I I
 
-🔍 Option 5 (Search Only)
-
-Search word: I
-
-Output:
-
-Word 'I' appears 5 times
-
-⚡ Option 8 (ALL)
-
-Search: I
-
-Replace: You
-
-Output (cleaned.txt):
-
+~!@#$%^&*() special chars
+Hello I, how are you?
+After Cleaning (Option 8 - ALL)
 Hello You, how are you?
-
-special chars
-
 You You You You
-
-📊 Output Summary Example
-
+special chars
+## 📊 Output Example
 ✅ Output saved to: cleaned.txt
 
 📊 Summary:
-
 - Removed extra spaces
-
-- Removed special characters
- 
-- Removed empty lines
- 
-- Removed duplicate lines
- 
+- Removed special chars
+- Removed 1 empty lines
+- Removed 1 duplicate lines
 - Replaced 'I' with 'You'
 - 
-**💼 Custom Work / Freelancing**
+### 💼 Freelance / Custom Work
 
-If you need advanced features, I can help with:
+Available for:
 
 Bulk file processing
 
-CSV / Excel support
+CSV / Excel automation
 
-Convert script to .exe (no Python installation needed)
+Convert script to .exe
 
-Custom automation tools
+Custom Python tools
+
+📧 Email: ghulamali31@gmail.com
+
+## 👤 Author
+
+GitHub: (https://github.com/ghulamali-786)
+
+## 📜 License
+
+MIT License free to use and modify.
 
 
-
-**📧 Email:** ghulamali31@gmail.com
-
-**👤 Author:** Ghulam Ali
-
-**GitHub:** ghulamali-786
-
-**📜 License**
-
-MIT License free to use, modify, and distribute.
