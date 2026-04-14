@@ -25,20 +25,25 @@ Keeps only unique lines and removes repeated ones.
 
 **Search Only (Word Count)**
 Counts how many times a word appears in the file
+
 ✔ Case-insensitive
+
 ✔ Does NOT modify the file
 
 ### 🔁 Editing
 
 **Search & Replace**
 Replaces a specific word with another
+
 ✔ Full word match
+
 ✔ Case-insensitive
 
 ### 📊 Statistics
 
 **Word Count Only**
 Shows total number of words in the file
+
 ✔ No file modification
 
 ### ⚡ All-in-One
@@ -49,7 +54,9 @@ Runs all cleaning operations + optional search & replace in one step
 ## 👨‍💻 Who Is This For?
 
 Anyone working with messy text files
+
 Beginners learning Python
+
 Freelancers offering automation services
 
 ## ⚙️ Requirements
@@ -96,7 +103,7 @@ The program will ask for:
 7. Word count only
 8. ALL (cleaning + search & replace)
 0. Exit
-
+   
 ==================================================
 
 ## 📌 Additional Inputs (When Required)
@@ -123,10 +130,10 @@ special chars
 📊 Summary:
 - Removed extra spaces
 - Removed special chars
-- Removed 1 empty lines
-- Removed 1 duplicate lines
+- Removed empty lines
+- Removed duplicate lines
 - Replaced 'I' with 'You'
-- 
+   
 ### 💼 Freelance / Custom Work
 
 Available for:
