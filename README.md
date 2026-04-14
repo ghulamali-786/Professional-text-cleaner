@@ -23,6 +23,7 @@ Freelancers offering file-cleaning or automation services
 
 Windows / Mac / Linux
 Python 3.6 or higher
+
 📥 Installation & Usage
 
 1️⃣ Save the Script
