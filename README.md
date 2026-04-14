@@ -1,10 +1,9 @@
- Text File Processor
- Easy Menu-Driven Python Tool
+🧹 Easy Menu-Driven Python Tool
 
 A simple and beginner-friendly Python tool to clean and process text files.
 No command-line knowledge is required — just run the script and choose options from a menu.
 
- Features
+🚀 Features
 Remove extra spaces (multiple → single)
 Remove special characters (~!@#$%^&*())
 Remove empty lines
@@ -13,26 +12,37 @@ Search only – count how many times a word appears (without modifying the file)
 Search & Replace – replace full words (case-insensitive)
 Word count – total number of words in the file
 ALL option – perform all cleaning + search/replace in one step
-Who Is This For?
+
+👨‍💻 Who Is This For?
+
 Anyone working with messy text files (logs, notes, data exports)
 Beginners learning Python
 Freelancers offering file-cleaning or automation services
-Requirements
+
+⚙️ Requirements
+
 Windows / Mac / Linux
 Python 3.6 or higher
-Installation & Usage
-1. Save the Script
+📥 Installation & Usage
+
+1️⃣ Save the Script
 
 Save your Python file as:
+
 text_processor.py
 
-2. Run the Script
-Windows:  python text_processor.py
-Mac/Linux: python3 text_processor.py
+2️⃣ Run the Script
 
-3️Menu Interface
+Windows:
+
+python text_processor.py
+
+Mac/Linux:
+
+python3 text_processor.py
+3️⃣ Menu Interface
 ==================================================
- TEXT FILE PROCESSOR MENU
+📁 TEXT FILE PROCESSOR MENU
 ==================================================
 
 1. Remove extra spaces
@@ -46,7 +56,8 @@ Mac/Linux: python3 text_processor.py
 9. Exit
 
 ==================================================
-User Input
+
+📌 User Input
 
 The program will ask for:
 
@@ -54,21 +65,23 @@ Input file name (e.g., myfile.txt)
 Output file name (e.g., cleaned.txt)
 Search word (for options 5, 6, 8)
 Replace word (for options 6, 8)
-Example
+
+🧪 Example
+
 Input (myfile.txt)
 Hello I, how are you?
 maintain your health.
 
 ~!@#$%^&*() special chars
 I I I I
-Option 5 (Search Only)
+🔍 Option 5 (Search Only)
 
 Search word: I
 
 Output:
 
 Word 'I' appears 5 times
-Option 8 (ALL)
+⚡ Option 8 (ALL)
 
 Search: I
 Replace: You
@@ -76,29 +89,40 @@ Replace: You
 Output (cleaned.txt):
 
 Hello You, how are you?
-special chars
-You You You You
-Output Summary Example
-Output saved to: cleaned.txt
 
-Summary:
+special chars
+
+You You You You
+
+📊 Output Summary Example
+
+✅ Output saved to: cleaned.txt
+
+📊 Summary:
 - Removed extra spaces
 - Removed special characters
-- Removed empty lines
-- Removed duplicate lines
+- Removed 1 empty line
+- Removed 0 duplicate lines
 - Replaced 'I' with 'You'
-Custom Work / Freelancing
+💼 Custom Work / Freelancing
 
 If you need advanced features, I can help with:
 
 Bulk file processing
+
 CSV / Excel support
+
 Convert script to .exe (no Python installation needed)
+
 Custom automation tools
 
-Email: ghulamali31@gmail.com
-Author:  Ghulam Ali
+
+📧 Email: ghulamali31@gmail.com
+
+👤 Author: Ghulam Ali
+
 GitHub: ghulamali-786
 
-License
+📜 License
+
 MIT License — free to use, modify, and distribute.
