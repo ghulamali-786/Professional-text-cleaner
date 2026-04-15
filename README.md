@@ -156,4 +156,6 @@ GitHub: (https://github.com/ghulamali-786)
 
 MIT License free to use and modify.
 
+[![Ko-fi](https://img.shields.io/badge/Support_me_on_Ko--fi-F16061?logo=kofi&logoColor=white)](https://ko-fi.com/ghulamali786)
+
 
